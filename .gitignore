@@ -1,5 +1,6 @@
 **/__pycache__/
 app/test
-./tf/terraform/
-./tf/terraform.lock.hcl
+tf/**.terraform/
+tf/.terraform.lock.hcl
+tf/terraform.tfstate.backup
 **.tfstate
