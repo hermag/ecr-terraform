@@ -1,2 +1,4 @@
 **/__pycache__/
 app/test
+./tf/terraform/
+./tf/terraform.lock.hcl
