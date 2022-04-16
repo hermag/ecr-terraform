@@ -2,3 +2,4 @@
 app/test
 ./tf/terraform/
 ./tf/terraform.lock.hcl
+**.tfstate
