@@ -6,7 +6,7 @@ resource "docker_image" "backend" {
     }
 }
 
-resource "aws_ecr_repository" "foo" {
+resource "aws_ecr_repository" "backendimagerepo" {
   name                 = "backendimagerepo"
   image_tag_mutability = "MUTABLE"
 
